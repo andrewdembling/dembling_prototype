@@ -4,4 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/demblingemojiptype.unity
+    guid: 26e0c41e8336d45ce9bdc4fb058ff6ec
+  - enabled: 0
+    path: Assets/apple.unity
+    guid: 601a2de04ad94432196387fd5d0ba92c
+  - enabled: 0
+    path: Assets/crying.unity
+    guid: 25bdb2908df7e47cc87e19a02e9aa435
+  - enabled: 1
+    path: Assets/Scenes/demblingemoji.unity
+    guid: ed3dd89e759644989bd35b9f83d16fbb
