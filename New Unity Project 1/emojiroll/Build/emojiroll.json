@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "emojiroll.data.unityweb",
+"asmCodeUrl": "emojiroll.asm.code.unityweb",
+"asmMemoryUrl": "emojiroll.asm.memory.unityweb",
+"asmFrameworkUrl": "emojiroll.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
